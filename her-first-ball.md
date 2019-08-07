@@ -1,12 +1,12 @@
 # Her First Ball
 
-Exactly when the ball began Leila would have found it hard to say.
+<p class="introductory-section">Exactly when the ball began Leila would have found it hard to say.
 Perhaps her first real partner was the cab. It did not matter that she
 shared the cab with the Sheridan girls and their brother. She sat back
 in her own little corner of it, and the bolster on which her hand
 rested felt like the sleeve of an unknown young man’s dress suit; and
 away they bowled, past waltzing lamp-posts and houses and fences and
-trees.
+trees.</p>
 
 “Have you really never been to a ball before, Leila? But, my child, how
 too weird—” cried the Sheridan girls.

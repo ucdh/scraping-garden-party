@@ -1,6 +1,6 @@
 # The Stranger
 
-It seemed to the little crowd on the wharf that she was never going to
+<p class="introductory-section">It seemed to the little crowd on the wharf that she was never going to
 move again. There she lay, immense, motionless on the grey crinkled
 water, a loop of smoke above her, an immense flock of gulls screaming
 and diving after the galley droppings at the stern. You could just see
@@ -8,7 +8,7 @@ little couples parading—little flies walking up and down the dish on
 the grey crinkled tablecloth. Other flies clustered and swarmed at the
 edge. Now there was a gleam of white on the lower deck—the cook’s apron
 or the stewardess perhaps. Now a tiny black spider raced up the ladder
-on to the bridge.
+on to the bridge.</p>
 
 In the front of the crowd a strong-looking, middle-aged man, dressed
 very well, very snugly in a grey overcoat, grey silk scarf, thick

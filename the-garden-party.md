@@ -1,6 +1,6 @@
 # The Garden-Party
 
-<p class="first-paragraph">And after all the weather was ideal. They could not have had a more
+<p class="introductory-section">And after all the weather was ideal. They could not have had a more
 perfect day for a garden-party if they had ordered it. Windless, warm,
 the sky without a cloud. Only the blue was veiled with a haze of light
 gold, as it is sometimes in early summer. The gardener had been up

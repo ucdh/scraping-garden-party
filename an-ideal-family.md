@@ -1,6 +1,6 @@
 # An Ideal Family
 
-That evening for the first time in his life, as he pressed through the
+<p class="introductory-section">That evening for the first time in his life, as he pressed through the
 swing door and descended the three broad steps to the pavement, old Mr.
 Neave felt he was too old for the spring. Spring—warm, eager,
 restless—was there, waiting for him in the golden light, ready in front
@@ -20,7 +20,7 @@ all. He stumped along, lifting his knees high as if he were walking
 through air that had somehow grown heavy and solid like water. And the
 homeward-looking crowd hurried by, the trams clanked, the light carts
 clattered, the big swinging cabs bowled along with that reckless,
-defiant indifference that one knows only in dreams....
+defiant indifference that one knows only in dreams....</p>
 
 It had been a day like other days at the office. Nothing special had
 happened. Harold hadn’t come back from lunch until close on four. Where

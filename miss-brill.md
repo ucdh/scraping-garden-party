@@ -1,6 +1,6 @@
 # Miss Brill
 
-Although it was so brilliantly fine—the blue sky powdered with gold and
+<p class="introductory-section">Although it was so brilliantly fine—the blue sky powdered with gold and
 great spots of light like white wine splashed over the Jardins
 Publiques—Miss Brill was glad that she had decided on her fur. The air
 was motionless, but when you opened your mouth there was just a faint
@@ -19,7 +19,7 @@ that about it. Little rogue biting its tail just by her left ear. She
 could have taken it off and laid it on her lap and stroked it. She felt
 a tingling in her hands and arms, but that came from walking, she
 supposed. And when she breathed, something light and sad—no, not sad,
-exactly—something gentle seemed to move in her bosom.
+exactly—something gentle seemed to move in her bosom.</p>
 
 There were a number of people out this afternoon, far more than last
 Sunday. And the band sounded louder and gayer. That was because the

@@ -2,9 +2,9 @@
 
 _Eleven o’clock. A knock at the door._
 
-... I hope I haven’t disturbed you, madam. You weren’t asleep—were you?
+<p class="introductory-section">... I hope I haven’t disturbed you, madam. You weren’t asleep—were you?
 But I’ve just given my lady her tea, and there was such a nice cup
-over, I thought, perhaps....
+over, I thought, perhaps....</p>
 
 ... Not at all, madam. I always make a cup of tea last thing. She
 drinks it in bed after her prayers to warm her up. I put the kettle on

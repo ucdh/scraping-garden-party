@@ -1,6 +1,6 @@
 # Bank Holiday
 
-A stout man with a pink face wears dingy white flannel trousers, a blue
+<p class="introductory-section">A stout man with a pink face wears dingy white flannel trousers, a blue
 coat with a pink handkerchief showing, and a straw hat much too small
 for him, perched at the back of his head. He plays the guitar. A little
 chap in white canvas shoes, his face hidden under a felt hat like a
@@ -10,7 +10,7 @@ ribbons—of tune out of a fiddle. They stand, unsmiling, but not
 serious, in the broad sunlight opposite the fruit-shop; the pink spider
 of a hand beats the guitar, the little squat hand, with a
 brass-and-turquoise ring, forces the reluctant flute, and the fiddler’s
-arm tries to saw the fiddle in two.
+arm tries to saw the fiddle in two.</p>
 
 A crowd collects, eating oranges and bananas, tearing off the skins,
 dividing, sharing. One young girl has even a basket of strawberries,

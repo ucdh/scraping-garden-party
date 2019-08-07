@@ -1,12 +1,12 @@
 # Marriage à la Mode
 
-On his way to the station William remembered with a fresh pang of
+<p class="introductory-section">On his way to the station William remembered with a fresh pang of
 disappointment that he was taking nothing down to the kiddies. Poor
 little chaps! It was hard lines on them. Their first words always were
 as they ran to greet him, “What have you got for me, daddy?” and he had
 nothing. He would have to buy them some sweets at the station. But that
 was what he had done for the past four Saturdays; their faces had
-fallen last time when they saw the same old boxes produced again.
+fallen last time when they saw the same old boxes produced again.</p>
 
 And Paddy had said, “I had red ribbing on mine _bee_-fore!”
 

@@ -1,6 +1,6 @@
 # Mr. and Mrs. Dove
 
-Of course he knew—no man better—that he hadn’t a ghost of a chance, he
+<p class="introductory-section">Of course he knew—no man better—that he hadn’t a ghost of a chance, he
 hadn’t an earthly. The very idea of such a thing was preposterous. So
 preposterous that he’d perfectly understand it if her father—well,
 whatever her father chose to do he’d perfectly understand. In fact,
@@ -12,7 +12,7 @@ Supposing she replied, “What impertinence!” would he be surprised? Not
 in the least, he decided, turning up his soft collar and turning it
 down over the tie. He expected her to say something like that. He
 didn’t see, if he looked at the affair dead soberly, what else she
-could say.
+could say.</p>
 
 Here he was! And nervously he tied a bow in front of the mirror, jammed
 his hair down with both hands, pulled out the flaps of his jacket

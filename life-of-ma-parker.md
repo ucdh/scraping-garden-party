@@ -1,10 +1,10 @@
 # Life of Ma Parker
 
-When the literary gentleman, whose flat old Ma Parker cleaned every
+<p class="introductory-section">When the literary gentleman, whose flat old Ma Parker cleaned every
 Tuesday, opened the door to her that morning, he asked after her
 grandson. Ma Parker stood on the doormat inside the dark little hall,
 and she stretched out her hand to help her gentleman shut the door
-before she replied. “We buried ’im yesterday, sir,” she said quietly.
+before she replied. “We buried ’im yesterday, sir,” she said quietly.</p>
 
 “Oh, dear me! I’m sorry to hear that,” said the literary gentleman in a
 shocked tone. He was in the middle of his breakfast. He wore a very

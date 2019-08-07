@@ -3,10 +3,10 @@
 
 I
 
-The week after was one of the busiest weeks of their lives. Even when
+<p class="introductory-section">The week after was one of the busiest weeks of their lives. Even when
 they went to bed it was only their bodies that lay down and rested;
 their minds went on, thinking things out, talking things over,
-wondering, deciding, trying to remember where....
+wondering, deciding, trying to remember where....</p>
 
 Constantia lay like a statue, her hands by her sides, her feet just
 overlapping each other, the sheet up to her chin. She stared at the

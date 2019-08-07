@@ -3,7 +3,7 @@
 
 I
 
-Very early morning. The sun was not yet risen, and the whole of
+<p class="introductory-section">Very early morning. The sun was not yet risen, and the whole of
 Crescent Bay was hidden under a white sea-mist. The big bush-covered
 hills at the back were smothered. You could not see where they ended
 and the paddocks and bungalows began. The sandy road was gone and the
@@ -18,7 +18,7 @@ nasturtium leaves. It looked as though the sea had beaten up softly in
 the darkness, as though one immense wave had come rippling,
 rippling—how far? Perhaps if you had waked up in the middle of the
 night you might have seen a big fish flicking in at the window and gone
-again....
+again....</p>
 
 Ah-Aah! sounded the sleepy sea. And from the bush there came the sound
 of little streams flowing, quickly, lightly, slipping between the

@@ -1,6 +1,6 @@
 # The Young Girl
 
-In her blue dress, with her cheeks lightly flushed, her blue, blue
+<p class="introductory-section">In her blue dress, with her cheeks lightly flushed, her blue, blue
 eyes, and her gold curls pinned up as though for the first time—pinned
 up to be out of the way for her flight—Mrs. Raddick’s daughter might
 have just dropped from this radiant heaven. Mrs. Raddick’s timid,
@@ -8,7 +8,7 @@ faintly astonished, but deeply admiring glance looked as if she
 believed it, too; but the daughter didn’t appear any too pleased—why
 should she?—to have alighted on the steps of the Casino. Indeed, she
 was bored—bored as though Heaven had been full of casinos with snuffy
-old saints for _croupiers_ and crowns to play with.
+old saints for _croupiers_ and crowns to play with.</p>
 
 “You don’t mind taking Hennie?” said Mrs. Raddick. “Sure you don’t?
 There’s the car, and you’ll have tea and we’ll be back here on this

@@ -1,6 +1,6 @@
 # The Voyage
 
-The Picton boat was due to leave at half-past eleven. It was a
+<p class="introductory-section">The Picton boat was due to leave at half-past eleven. It was a
 beautiful night, mild, starry, only when they got out of the cab and
 started to walk down the Old Wharf that jutted out into the harbour, a
 faint wind blowing off the water ruffled under Fenella’s hat, and she
@@ -10,7 +10,7 @@ little squat railway engine, all seemed carved out of solid darkness.
 Here and there on a rounded wood-pile, that was like the stalk of a
 huge black mushroom, there hung a lantern, but it seemed afraid to
 unfurl its timid, quivering light in all that blackness; it burned
-softly, as if for itself.
+softly, as if for itself.</p>
 
 Fenella’s father pushed on with quick, nervous strides. Beside him her
 grandma bustled along in her crackling black ulster; they went so fast

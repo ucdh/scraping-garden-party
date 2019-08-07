@@ -1,6 +1,6 @@
 # The Singing Lesson
 
-With despair—cold, sharp despair—buried deep in her heart like a wicked
+<p class="introductory-section">With despair—cold, sharp despair—buried deep in her heart like a wicked
 knife, Miss Meadows, in cap and gown and carrying a little baton, trod
 the cold corridors that led to the music hall. Girls of all ages, rosy
 from the air, and bubbling over with that gleeful excitement that comes
@@ -8,7 +8,7 @@ from running to school on a fine autumn morning, hurried, skipped,
 fluttered by; from the hollow class-rooms came a quick drumming of
 voices; a bell rang; a voice like a bird cried, “Muriel.” And then
 there came from the staircase a tremendous knock-knock-knocking. Some
-one had dropped her dumbbells.
+one had dropped her dumbbells.</p>
 
 The Science Mistress stopped Miss Meadows.
 
