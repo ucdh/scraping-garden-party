@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+title: Scraping Garden Party
+description: A small site based on the short story collection "The Garden Party: and Other Stories" by Katherine Mansfield, built for a web scraping exercise for students at the University of Canterbury
+logo: assets/images/katherine-mansfield.jpg
