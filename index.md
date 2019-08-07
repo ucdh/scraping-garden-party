@@ -8,7 +8,7 @@ It is based on [this text file](1429-0.txt) from [Project Gutenberg](https://www
 
 * [At the Bay](at-the-bay.md)  
 * [The Garden-Party](the-garden-party.md)  
-* [The Daughters of the Late Colonel]()  
+* [The Daughters of the Late Colonel](daughters-late-colonel.md)  
 * [Mr. and Mrs. Dove]()  
 * [The Young Girl]()  
 * [Life of Ma Parker]()  
