@@ -3,5 +3,5 @@
 
 @import "{{ site.theme }}";
 
-a:hover {font-weight: normal;}
+a:hover {font-weight: normal; text-decoration:underline;}
 h1 {font-weight: normal;}
