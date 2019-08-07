@@ -1,6 +1,6 @@
 # Scraping Garden Party
 
-This website contains stories from "[The Garden Party: and Other Stories](https://www.bl.uk/works/the-garden-party-and-other-stories)" by [Katherine Mansfield](https://teara.govt.nz/en/biographies/3m42/mansfield-katherine).
+This website contains stories from _[The Garden Party: and Other Stories](https://www.bl.uk/works/the-garden-party-and-other-stories)_ by [Katherine Mansfield](https://teara.govt.nz/en/biographies/3m42/mansfield-katherine).
 
 It is based on [this text file](1429-0.txt) (downloaded 8/8/19) from [Project Gutenberg](https://www.gutenberg.org/ebooks/1429).
 
