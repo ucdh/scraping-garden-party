@@ -2,7 +2,7 @@
 
 This website contains stories from "The Garden Party: and Other Stories" by [Katherine Mansfield](https://teara.govt.nz/en/biographies/3m42/mansfield-katherine).
 
-It is based on [this text file](1429-0.txt) from [Project Gutenberg](https://www.gutenberg.org/ebooks/1429).
+It is based on [this text file](1429-0.txt) (downloaded 8/8/19) from [Project Gutenberg](https://www.gutenberg.org/ebooks/1429).
 
 ## Contents
 
