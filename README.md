@@ -1,9 +1,9 @@
 # Scraping Garden Party
 
-August 9, 2019
-Geoff Ford
-https://geoffford.nz
-https://github.com/polsci/
+August 9, 2019  
+Geoff Ford  
+https://geoffford.nz  
+https://github.com/polsci/  
 
 This repo is a website that contains stories from The Garden Party: and Other Stories by Katherine Mansfield. It was built by Geoff Ford as a simple website for students to work with for a web scraping exercise.
 
