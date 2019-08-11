@@ -18,3 +18,7 @@ It is based on [this text file](/scraping-garden-party/1429-0.txt) from [Project
 The scraping task is intended to get students inspecting HTML markup on a very small and simple website and to think about how to write code to extract and follow links and extract specific text.
 
 The scraping task required students to retrieve the 15 links to short stories using CSS selectors and Python and the Requests and BeautifulSoup libraries. They then needed to write some code that looped through the links, built a full URL, retrieved each short story page and output a specific part of the short story page (specifically the text in the paragraph with class="introductory-section"). They were required to put in a 2 second delay between each request using time.sleep().
+
+## Scraping Garden Party Corpus
+
+A corpus of _Garden Party_ short stories are included in the directory [garden-party-corpus](garden-party-corpus). The filenames contain a recognisable version of the short story name. The text files contain the short story without the title.
