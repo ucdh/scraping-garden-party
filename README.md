@@ -21,4 +21,4 @@ The scraping task required students to retrieve the 15 links to short stories us
 
 ## Scraping Garden Party Corpus
 
-A corpus of _Garden Party_ short stories are included in the directory [garden-party-corpus](garden-party-corpus). The filenames contain a recognisable version of the short story name. The text files contain the short story without the title.
+A corpus of _Garden Party_ short stories is included in the directory [garden-party-corpus](https://github.com/ucdh/scraping-garden-party/tree/master/garden-party-corpus). The filenames contain a recognisable version of the short story name. The text files contain the short story without the title.
