@@ -1,6 +1,8 @@
 ---
 author: Katherine Mansfield
 date: 1922-01-01
+seo:
+  type: ShortStory
 ---
 # At the Bay
 
