@@ -57,7 +57,7 @@
       var el = document.getElementById("poem-text");
       if(typeof(el) != 'undefined' && el != null) {
         var request = new XMLHttpRequest();
-        request.open('GET', '/poem-text.json', true);
+        request.open('GET', 'poem-text.json', true);
 
         request.onload = function() {
           if (this.status >= 200 && this.status < 400) {
