@@ -1,3 +1,7 @@
+---
+author: Katherine Mansfield
+date: 1922-01-01
+---
 # At the Bay
 
 
