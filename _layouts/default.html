@@ -55,30 +55,7 @@
     {% endif %}
 
     <script>
-      var el = document.getElementById("poem-text");
-      if(typeof(el) != 'undefined' && el != null) {
-        var request = new XMLHttpRequest();
-        request.open('GET', 'poem-text.json', true);
-
-        request.onload = function() {
-          if (this.status >= 200 && this.status < 400) {
-            // Success!
-            var data = JSON.parse(this.response);
-            el.innerHTML = data.text
-            document.getElementById("poem-title").innerHTML = data.year
-            document.getElementById("poem-year").innerHTML = data.year
-          } else {
-            // We reached our target server, but it returned an error
-
-          }
-        };
-
-        request.onerror = function() {
-          // There was a connection error of some sort
-        };
-
-        request.send();
-      }
+      var el=document.getElementById("poem-text");if(void 0!==el&&null!=el){var request=new XMLHttpRequest;request.open("GET","poem-text.json",!0),request.onload=function(){if(this.status>=200&&this.status<400){var e=JSON.parse(this.response);el.innerHTML=e.text,document.getElementById("poem-title").innerHTML=e.title,document.getElementById("poem-year").innerHTML=e.year}},request.onerror=function(){},request.send()}
     </script>
   </body>
 </html>
