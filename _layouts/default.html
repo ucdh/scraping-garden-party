@@ -58,7 +58,7 @@
     {% endif %}
 
     <script>
-      var sel=document.getElementById("selector"),lastsel=False;sel.addEventListener("change",e=>{if(lastsel!=False)for(results=document.querySelectorAll(lastsel),i=0;i<results.length;++i)results[i].classList.remove("highlight");for(results=document.querySelectorAll(e.target.value),i=0;i<results.length;++i)results[i].classList.add("highlight");lastsel=e.target.value});
+      var sel=document.getElementById("selector"),lastsel=!1;sel.addEventListener("change",e=>{if(0!=lastsel)for(results=document.querySelectorAll(lastsel),i=0;i<results.length;++i)results[i].classList.remove("highlight");for(results=document.querySelectorAll(e.target.value),i=0;i<results.length;++i)results[i].classList.add("highlight");lastsel=e.target.value});
       var el=document.getElementById("poem-text");if(void 0!==el&&null!=el){var request=new XMLHttpRequest;request.open("GET","poem-text.json",!0),request.onload=function(){if(this.status>=200&&this.status<400){var e=JSON.parse(this.response);el.innerHTML=e.text,document.getElementById("poem-title").innerHTML=e.title,document.getElementById("poem-year").innerHTML=e.year}},request.onerror=function(){},request.send()}
     </script>
   </body>
