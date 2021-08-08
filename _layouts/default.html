@@ -37,7 +37,11 @@
         {% endif %}
       </header>
       <section id="page-content">
-
+        {% if page.author %}
+        <div id="page-meta">
+          <span id="page-author">{{ page.author }}</span>, <span id="page-published">{{ page.date | date: "%Y" }}</span>
+        </div>
+        {% endif %}
       {{ content }}
 
       </section>
