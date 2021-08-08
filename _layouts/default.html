@@ -54,7 +54,8 @@
     {% endif %}
 
     <script>
-      if (document.getElementById("poem-text").length > 0) {
+      var el = document.getElementById("poem-text");
+      if(typeof(el) != 'undefined' && el != null) {
         var request = new XMLHttpRequest();
         request.open('GET', '/poem-text.json', true);
 
@@ -62,7 +63,8 @@
           if (this.status >= 200 && this.status < 400) {
             // Success!
             var data = JSON.parse(this.response);
-            document.getElementById("poem-text").innerHTML = data.text
+            el.innerHTML = data.text
+            document.getElementById("poem-title").innerHTML = data.year
             document.getElementById("poem-year").innerHTML = data.year
           } else {
             // We reached our target server, but it returned an error
