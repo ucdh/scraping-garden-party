@@ -1,6 +1,6 @@
 ---
 author: Katherine Mansfield
-date: 1922-01-01
+date: 1921-05-01
 seo:
   type: ShortStory
 ---
