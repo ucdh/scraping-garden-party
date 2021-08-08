@@ -221,13 +221,13 @@ _Pom!_ Ta-ta-ta _Tee_-ta! The piano burst out so passionately that
 Jose’s face changed. She clasped her hands. She looked mournfully and
 enigmatically at her mother and Laura as they came in.
 
-     This Life is _Wee_-ary,
-     A Tear—a Sigh.
-     A Love that _Chan_-ges,
-     This Life is _Wee_-ary,
-     A Tear—a Sigh.
-     A Love that _Chan_-ges,
-     And then. . . Good-bye!
+&nbsp;&nbsp;&nbsp;&nbsp; This Life is _Wee_-ary,
+&nbsp;&nbsp;&nbsp;&nbsp; A Tear—a Sigh.
+&nbsp;&nbsp;&nbsp;&nbsp; A Love that _Chan_-ges,
+&nbsp;&nbsp;&nbsp;&nbsp; This Life is _Wee_-ary,
+&nbsp;&nbsp;&nbsp;&nbsp; A Tear—a Sigh.
+&nbsp;&nbsp;&nbsp;&nbsp; A Love that _Chan_-ges,
+&nbsp;&nbsp;&nbsp;&nbsp; And then. . . Good-bye!
 
 But at the word “Good-bye,” and although the piano sounded more
 desperate than ever, her face broke into a brilliant, dreadfully
@@ -235,9 +235,9 @@ unsympathetic smile.
 
 “Aren’t I in good voice, mummy?” she beamed.
 
-     This Life is _Wee_-ary,
-     Hope comes to Die.
-     A Dream—a _Wa_-kening.
+&nbsp;&nbsp;&nbsp;&nbsp; This Life is _Wee_-ary,
+&nbsp;&nbsp;&nbsp;&nbsp; Hope comes to Die.
+&nbsp;&nbsp;&nbsp;&nbsp; A Dream—a _Wa_-kening.
 
 But now Sadie interrupted them. “What is it, Sadie?”
 

@@ -844,8 +844,8 @@ that loud, strange bellow when father thought they were not hurrying
 enough. The organ-grinder might play there all day and the stick would
 not thump.
 
-     It never will thump again,
-     It never will thump again,
+&nbsp;&nbsp;&nbsp;&nbsp; It never will thump again,
+&nbsp;&nbsp;&nbsp;&nbsp; It never will thump again,
 
 played the barrel-organ.
 
@@ -856,8 +856,8 @@ different. She couldn’t be going to cry.
 you know what day it is? It’s Saturday. It’s a week to-day, a whole
 week.”
 
-     A week since father died,
-     A week since father died,
+&nbsp;&nbsp;&nbsp;&nbsp; A week since father died,
+&nbsp;&nbsp;&nbsp;&nbsp; A week since father died,
 
 cried the barrel-organ. And Josephine, too, forgot to be practical and
 sensible; she smiled faintly, strangely. On the Indian carpet there

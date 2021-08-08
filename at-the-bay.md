@@ -939,10 +939,10 @@ conjurer could prevent them from toppling over. In the left-hand corner
 of one window, glued to the pane by four gelatine lozenges, there
 was—and there had been from time immemorial—a notice.
 
-     LOST! HANSOME GOLE BROOCH
-     SOLID GOLD
-     ON OR NEAR BEACH
-     REWARD OFFERED
+&nbsp;&nbsp;&nbsp;&nbsp; LOST! HANSOME GOLE BROOCH
+&nbsp;&nbsp;&nbsp;&nbsp; SOLID GOLD
+&nbsp;&nbsp;&nbsp;&nbsp; ON OR NEAR BEACH
+&nbsp;&nbsp;&nbsp;&nbsp; REWARD OFFERED
 
 Alice pressed open the door. The bell jangled, the red serge curtains
 parted, and Mrs. Stubbs appeared. With her broad smile and the long
