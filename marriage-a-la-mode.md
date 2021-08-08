@@ -1,5 +1,7 @@
 ---
 author: Katherine Mansfield
+seo:
+  type: ShortStory
 ---
 # Marriage à la Mode
 

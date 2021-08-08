@@ -1,5 +1,7 @@
 ---
 author: Katherine Mansfield
+seo:
+  type: ShortStory
 ---
 # The Daughters of the Late Colonel
 
