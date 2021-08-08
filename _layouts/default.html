@@ -52,5 +52,30 @@
       ga('send', 'pageview');
     </script>
     {% endif %}
+
+    <script>
+      if (document.getElementById("poem-text").length > 0) {
+        var request = new XMLHttpRequest();
+        request.open('GET', '/poem-text.json', true);
+
+        request.onload = function() {
+          if (this.status >= 200 && this.status < 400) {
+            // Success!
+            var data = JSON.parse(this.response);
+            document.getElementById("poem-text").innerHTML = data.text
+            document.getElementById("poem-year").innerHTML = data.year
+          } else {
+            // We reached our target server, but it returned an error
+
+          }
+        };
+
+        request.onerror = function() {
+          // There was a connection error of some sort
+        };
+
+        request.send();
+      }
+    </script>
   </body>
 </html>
