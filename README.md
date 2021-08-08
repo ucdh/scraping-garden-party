@@ -2,7 +2,7 @@
 
 August 9, 2019  
 Geoff Ford  
-https://geoffford.nz  
+https://polsci.github.io/  
 https://github.com/polsci/  
 
 ## Introduction
