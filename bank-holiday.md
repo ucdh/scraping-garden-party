@@ -1,3 +1,6 @@
+---
+author: Katherine Mansfield
+---
 # Bank Holiday
 
 <p class="introductory-section">A stout man with a pink face wears dingy white flannel trousers, a blue

@@ -1,3 +1,6 @@
+---
+author: Katherine Mansfield
+---
 # The Stranger
 
 <p class="introductory-section">It seemed to the little crowd on the wharf that she was never going to

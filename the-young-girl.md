@@ -1,3 +1,6 @@
+---
+author: Katherine Mansfield
+---
 # The Young Girl
 
 <p class="introductory-section">In her blue dress, with her cheeks lightly flushed, her blue, blue

@@ -1,3 +1,6 @@
+---
+author: Katherine Mansfield
+---
 # The Daughters of the Late Colonel
 
 

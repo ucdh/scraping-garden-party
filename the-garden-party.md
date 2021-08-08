@@ -1,3 +1,6 @@
+---
+author: Katherine Mansfield
+---
 # The Garden-Party
 
 <p class="introductory-section">And after all the weather was ideal. They could not have had a more

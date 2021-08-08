@@ -1,3 +1,6 @@
+---
+author: Katherine Mansfield
+---
 # An Ideal Family
 
 <p class="introductory-section">That evening for the first time in his life, as he pressed through the

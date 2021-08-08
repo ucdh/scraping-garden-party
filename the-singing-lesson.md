@@ -1,3 +1,6 @@
+---
+author: Katherine Mansfield
+---
 # The Singing Lesson
 
 <p class="introductory-section">With despair—cold, sharp despair—buried deep in her heart like a wicked

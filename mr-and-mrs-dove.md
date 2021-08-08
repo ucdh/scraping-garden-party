@@ -1,3 +1,6 @@
+---
+author: Katherine Mansfield
+---
 # Mr. and Mrs. Dove
 
 <p class="introductory-section">Of course he knew—no man better—that he hadn’t a ghost of a chance, he

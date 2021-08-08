@@ -1,3 +1,6 @@
+---
+author: Katherine Mansfield
+---
 # Her First Ball
 
 <p class="introductory-section">Exactly when the ball began Leila would have found it hard to say.

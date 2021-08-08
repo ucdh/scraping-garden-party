@@ -1,3 +1,6 @@
+---
+author: Katherine Mansfield
+---
 # The Lady’s Maid
 
 _Eleven o’clock. A knock at the door._

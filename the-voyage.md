@@ -1,3 +1,6 @@
+---
+author: Katherine Mansfield
+---
 # The Voyage
 
 <p class="introductory-section">The Picton boat was due to leave at half-past eleven. It was a

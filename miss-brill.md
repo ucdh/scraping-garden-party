@@ -1,3 +1,6 @@
+---
+author: Katherine Mansfield
+---
 # Miss Brill
 
 <p class="introductory-section">Although it was so brilliantly fine—the blue sky powdered with gold and

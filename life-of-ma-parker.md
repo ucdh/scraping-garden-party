@@ -1,3 +1,6 @@
+---
+author: Katherine Mansfield
+---
 # Life of Ma Parker
 
 <p class="introductory-section">When the literary gentleman, whose flat old Ma Parker cleaned every

@@ -1,3 +1,6 @@
+---
+author: Katherine Mansfield
+---
 # Marriage à la Mode
 
 <p class="introductory-section">On his way to the station William remembered with a fresh pang of
