@@ -26,6 +26,8 @@
         <p>It is based on <a href="/scraping-garden-party/1429-0.txt">this text file</a> from <a href="https://www.gutenberg.org/ebooks/1429">Project Gutenberg</a>.</p>
         <p>A poem "<a href="/scraping-garden-party/to-lhb.html">To L. H. B. (1894–1915)</a>" is included to demonstrate AJAX loading of text within a page.</p>
 
+        <input id="selector" type="text" placeholder="Enter selector (e.g. h1)">
+
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
@@ -56,6 +58,7 @@
     {% endif %}
 
     <script>
+      var sel=document.getElementById("selector");for(results=document.querySelectorAll(".highlight"),i=0;i<results.length;++i)results[i].classList.remove("hightlight");sel.addEventListener("change",e=>{for(results=document.querySelectorAll(e.target.value),i=0;i<results.length;++i)results[i].classList.add("highlight")});
       var el=document.getElementById("poem-text");if(void 0!==el&&null!=el){var request=new XMLHttpRequest;request.open("GET","poem-text.json",!0),request.onload=function(){if(this.status>=200&&this.status<400){var e=JSON.parse(this.response);el.innerHTML=e.text,document.getElementById("poem-title").innerHTML=e.title,document.getElementById("poem-year").innerHTML=e.year}},request.onerror=function(){},request.send()}
     </script>
   </body>
