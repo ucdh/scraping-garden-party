@@ -939,10 +939,10 @@ conjurer could prevent them from toppling over. In the left-hand corner
 of one window, glued to the pane by four gelatine lozenges, there
 was—and there had been from time immemorial—a notice.
 
-&nbsp;&nbsp;&nbsp;&nbsp; LOST! HANSOME GOLE BROOCH
-&nbsp;&nbsp;&nbsp;&nbsp; SOLID GOLD
-&nbsp;&nbsp;&nbsp;&nbsp; ON OR NEAR BEACH
-&nbsp;&nbsp;&nbsp;&nbsp; REWARD OFFERED
+&nbsp;&nbsp;&nbsp;&nbsp; LOST! HANSOME GOLE BROOCH<br />
+&nbsp;&nbsp;&nbsp;&nbsp; SOLID GOLD<br />
+&nbsp;&nbsp;&nbsp;&nbsp; ON OR NEAR BEACH<br />
+&nbsp;&nbsp;&nbsp;&nbsp; REWARD OFFERED<br />
 
 Alice pressed open the door. The bell jangled, the red serge curtains
 parted, and Mrs. Stubbs appeared. With her broad smile and the long
@@ -1317,8 +1317,8 @@ changed voice, as if he were confiding a secret, “Weak... weak. No
 stamina. No anchor. No guiding principle, let us call it.” But then the
 dark velvety voice rolled out:
 
-     Would ye hear the story
-     How it unfolds itself. . .
+&nbsp;&nbsp;&nbsp;&nbsp; Would ye hear the story<br />
+&nbsp;&nbsp;&nbsp;&nbsp; How it unfolds itself. . .<br />
 
 and they were silent.
 

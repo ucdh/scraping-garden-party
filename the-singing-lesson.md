@@ -82,10 +82,10 @@ She raised the baton; she tapped the music stand twice. Down came Mary
 on the opening chord; down came all those left hands, beating the air,
 and in chimed those young, mournful voices:—
 
-&nbsp;&nbsp;&nbsp;&nbsp; Fast! Ah, too Fast Fade the Ro-o-ses of Pleasure;
-&nbsp;&nbsp;&nbsp;&nbsp; Soon Autumn yields unto Wi-i-nter Drear.
-&nbsp;&nbsp;&nbsp;&nbsp; Fleetly! Ah, Fleetly Mu-u-sic’s Gay Measure
-&nbsp;&nbsp;&nbsp;&nbsp; Passes away from the Listening Ear.
+&nbsp;&nbsp;&nbsp;&nbsp; Fast! Ah, too Fast Fade the Ro-o-ses of Pleasure;<br />
+&nbsp;&nbsp;&nbsp;&nbsp; Soon Autumn yields unto Wi-i-nter Drear.<br />
+&nbsp;&nbsp;&nbsp;&nbsp; Fleetly! Ah, Fleetly Mu-u-sic’s Gay Measure<br />
+&nbsp;&nbsp;&nbsp;&nbsp; Passes away from the Listening Ear.<br />
 
 Good Heavens, what could be more tragic than that lament! Every note
 was a sigh, a sob, a groan of awful mournfulness. Miss Meadows lifted
@@ -221,9 +221,9 @@ the yellow chrysanthemum, she held it to her lips to hide her smile.
 Then she turned to the girls, rapped with her baton: “Page thirty-two,
 girls. Page thirty-two.”
 
-&nbsp;&nbsp;&nbsp;&nbsp; We come here To-day with Flowers o’erladen,
-&nbsp;&nbsp;&nbsp;&nbsp; With Baskets of Fruit and Ribbons to boot,
-&nbsp;&nbsp;&nbsp;&nbsp; To-oo Congratulate . . .
+&nbsp;&nbsp;&nbsp;&nbsp; We come here To-day with Flowers o’erladen,<br />
+&nbsp;&nbsp;&nbsp;&nbsp; With Baskets of Fruit and Ribbons to boot,<br />
+&nbsp;&nbsp;&nbsp;&nbsp; To-oo Congratulate . . .<br />
 
 “Stop! Stop!” cried Miss Meadows. “This is awful. This is dreadful.”
 And she beamed at her girls. “What’s the matter with you all? Think,

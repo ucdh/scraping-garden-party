@@ -358,10 +358,10 @@ that she’s holding? Her grandma’s umbrella?”
 Fenella smiled again, and crooked the swan neck over the bed-rail.
 Above the bed there was a big text in a deep black frame:—
 
-&nbsp;&nbsp;&nbsp;&nbsp; Lost! One Golden Hour
-&nbsp;&nbsp;&nbsp;&nbsp; Set with Sixty Diamond Minutes.
-&nbsp;&nbsp;&nbsp;&nbsp; No Reward Is Offered
-&nbsp;&nbsp;&nbsp;&nbsp; For It Is Gone For Ever!
+&nbsp;&nbsp;&nbsp;&nbsp; Lost! One Golden Hour<br />
+&nbsp;&nbsp;&nbsp;&nbsp; Set with Sixty Diamond Minutes.<br />
+&nbsp;&nbsp;&nbsp;&nbsp; No Reward Is Offered<br />
+&nbsp;&nbsp;&nbsp;&nbsp; For It Is Gone For Ever!<br />
 
 “Yer grandma painted that,” said grandpa. And he ruffled his white tuft
 and looked at Fenella so merrily she almost thought he winked at her.
