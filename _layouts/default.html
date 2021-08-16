@@ -39,7 +39,7 @@
       <section id="page-content">
         {% if page.author %}
         <div id="page-meta">
-          <span id="page-author">{{ page.author }}</span>, <span id="page-published">{{ page.date | date: "%Y" }}</span>
+          <span id="page-author">{{ page.author }}</span>{% if page.date %}, <span id="page-published">{{ page.date | date: "%Y" }}</span>{% endif %}
         </div>
         {% endif %}
       {{ content }}
