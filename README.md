@@ -1,9 +1,7 @@
 # Scraping Garden Party
 
-August 9, 2019  
 Geoff Ford  
-https://polsci.github.io/  
-https://github.com/polsci/  
+https://geoffford.nz/  
 
 ## Introduction
 
